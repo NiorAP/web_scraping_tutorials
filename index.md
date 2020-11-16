@@ -1,6 +1,3 @@
-# Python Web Scraping Tutorials
-by Nior.A.P
-
 Tutorials series นี้ จะเป็นตัวอย่างการทำ Web Scraping ด้วย Python ในการดึงข้อมูลจากหน้า 
 websites หลากหลายรูปแบบ ด้วยวิธีที่ต่างกัน
 โดยใช้ library ที่เหมาะสมกับรูปแบบของหน้า website นั้น
